@@ -1,2 +1,3 @@
-# practise
-this is my first  repository
+# Practise
+This is my first  Repository
+This is my first commit
